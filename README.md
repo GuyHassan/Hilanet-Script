@@ -32,7 +32,7 @@ Array.from(document.getElementsByClassName(' regularItemCell ItemBorder')).forEa
     }
 });
 ```
-when you get this page, you need to select all of your days that with the red x sign (days you did not mark working hours), after you select all your days click on the "Sel. Days" button
+when you get this page, you need to select all of your days that with the **red x sign** (days you did not mark working hours), after you select all your days click on the **Sel. Days** button
 
 ![image](https://github.com/GuyHassan/Hilanet-Script/assets/33221427/34e5902f-d708-4cd2-9fea-c752df225f41)
 
@@ -40,7 +40,7 @@ now all your days is move to the table
 
 ![image](https://github.com/GuyHassan/Hilanet-Script/assets/33221427/bab72735-9a5b-43d5-b9d7-e1c75a1b32c3)
 
-open the inspect and go to Sources, open new Snippet and call it whatever you want (i call it "Hilan")
+open the **Inspect** and go to Sources, open new Snippet and call it whatever you want (i call it **Hilan**)
 paste the code inside the file and click on the Hilan tab right click and click on Run button.
 
 ![image](https://github.com/GuyHassan/Hilanet-Script/assets/33221427/34a9fdf4-3c87-4a0f-8726-46ff39e03a8a)
